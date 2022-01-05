@@ -1,0 +1,13 @@
+New Sales
+labels $
+item name
+item price
+quantity
+total price
+add to sale
+
+show text field
+make sales 
+
+record sales 
+create array
